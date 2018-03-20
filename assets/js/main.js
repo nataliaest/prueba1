@@ -102,6 +102,7 @@
 
 				dataLayer.push({
 					'currencyCode': 'EUR',
+					'event': 'purchaseEUR',
 					'ecommerce': {
 					  'purchase': {
 						'actionField': {
@@ -144,6 +145,7 @@
 
 				dataLayer.push({
 					'currencyCode': 'MXN',
+					'event': 'purchaseMXN',
 					'ecommerce': {
 					  'purchase': {
 						'actionField': {
